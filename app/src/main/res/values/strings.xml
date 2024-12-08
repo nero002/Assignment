@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Upstox</string>
+    <string name="todays_profit_loss"><![CDATA[Today\'s Profit & Loss*]]></string>
+    <string name="total_investment">Total investment*</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="orders">Orders</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="funds">Funds</string>
+    <string name="invest">Invest</string>
+    <string name="holdings">HOLDINGS</string>
+    <string name="positions">POSITIONS</string>
+    <string name="net_qty">"NET QTY: "</string>
+    <string name="ltp">"LTP: "</string>
+    <string name="p_l"><![CDATA["P&L: "]]></string>
+    <string name="current_value">Current value*</string>
+</resources>
